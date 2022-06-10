@@ -1,6 +1,7 @@
 # dt-money
+
 h1 align="center">
-  <img alt="dtmoney" title="dtmoney" width="400px"  src=".github/logo.svg" />
+  <img alt="dtmoney" title="dtmoney" width="400px"  src="https://github.com/Demerbr/dt-money/blob/main/src/assets/logo.svg" />
 </h1>
 
 
