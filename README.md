@@ -17,9 +17,17 @@ O projeto **dt money** é uma aplicação web para controle de finanças pessoai
 ## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
+## Tecnologias
 
-- [React js](https://pt-br.reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
+Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [Polished](https://polished.js.org/)
+
+<br>
 ---
 
