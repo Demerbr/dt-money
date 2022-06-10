@@ -24,6 +24,9 @@
 
 O projeto **dt money** é uma aplicação web para controle de finanças pessoais.
 
+<img src="https://github.com/Demerbr/dt-money/blob/main/src/assets/app.png" />
+<img src="https://github.com/Demerbr/dt-money/blob/main/src/assets/app.png" />
+
 
 ---
 
